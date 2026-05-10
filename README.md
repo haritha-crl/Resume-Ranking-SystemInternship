@@ -30,8 +30,8 @@ Resume-Ranking-System/
 
 ## 📊 Output Screenshot
 ![Ranked Results](output.png)
-### Terminal Execution
-![Terminal Output](terminal.png)
+### terminal Execution
+![terminal Output](terminal.png)
 
-### Project Structure View
-![Folder Structure](structure.png)
+### Project structure View
+![Folder structure](structure.png)
